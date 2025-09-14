@@ -1,6 +1,6 @@
 A simulation for a 32 bit CPU designed in logisim
 
-How to Download the Simulation:
+How to Download the Simulation:  
 Save the .circ file.  
 You can then load the file as a library in your own project by navigating to Project > Load Library > Logisim Library....  
 After loading, the circuits from the file will appear in a new folder in your component list, and they can now be viewed by you.  
